@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NEAR P</string>
+    <string name="myLocation">My Location</string>
+    <string name="locationChecking">Location Checking</string>
+    <string name="locationDenied">Location access is needed</string>
+    <string name="location_not_found">Location Not Found</string>
+    <string name="settings">Settings</string>
+    <string name="enableGPS">Enable GPS Settings</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="networkProblem">Network Problem</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NEAR P</string>
+    <string name="myLocation">Konumum</string>
+    <string name="locationChecking">Konum Alınıyor</string>
+    <string name="locationDenied">Konum İzni Reddedildi</string>
+    <string name="location_not_found">Konum Bulunamıyor</string>
+    <string name="settings">Ayarlar</string>
+    <string name="enableGPS">GPS\'i Aktif Et</string>
+    <string name="title_activity_maps">Harita</string>
+    <string name="networkProblem">Bağlantı Hatası</string>
+</resources>
