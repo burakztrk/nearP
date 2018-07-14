@@ -1,7 +1,6 @@
 # nearP
 Foursquare API ile çevrenizdeki mekanları gösterir.
 
-**Genel İşleyiş**
 - Splash Screen üzerinde kullanıcıdan izinlerin istenmesi ve lokasyonun alınması
 - Sonraki ekranda Retrofit üzerinden datanın çekilmesi ve listelenmesi
 - Liste üzerinden bir yer seçildiğinde yüklüyse Google Map App üzerinde değilse MapActivity üzerinde açılması
